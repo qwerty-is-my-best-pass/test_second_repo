@@ -1,0 +1,3 @@
+[submodule "src/common_sub"]
+	path = src/common_sub
+	url = https://github.com/qwerty-is-my-best-pass/test_sub_repo.git
